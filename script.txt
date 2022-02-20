@@ -22,10 +22,11 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • In Mhamid
 
     Kill/Destroy:
-        • Destroy AA
+        • Designate AA
             • Ensures survival of UNA member after extraction
         • Kill high ranking member of TURA/SFIA
             • Disrupts structure of TURA/SFIA
+            • Civilians in stronghold artillery strike is not possible
 
     Support:
         • Supply drop

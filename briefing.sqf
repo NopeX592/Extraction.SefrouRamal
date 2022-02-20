@@ -19,6 +19,7 @@ format [" Authors: %1<br/><br/>",getText (missionconfigfile >> "author")]+
 "• Virtual Arsenal<br/>"+
 "• Supply Drops<br/>"+
 "• Toxic Gas<br/>"+
+"• Artillery Support<br/>"+
 "<br/>"+
 "THANKS:<br/>"+
 "• Alex for helping me with programming<br/>"+
@@ -43,10 +44,11 @@ _roles = "<br/>"+
             • In Mhamid<br/>
 <br/>
     Kill/Destroy:<br/>
-        • Destroy AA<br/>
+        • Designate AA<br/>
             • Ensures survival of UNA member after extraction<br/>
         • Kill high ranking member of Tura/SFIA<br/>
             • Disrupts structure of Tura/SFIA<br/>
+            • Civilians in stronghold artillery strike is not possible<br/>
 <br/>
     Support:<br/>
         • Supply drop<br/>
