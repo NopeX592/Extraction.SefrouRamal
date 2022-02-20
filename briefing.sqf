@@ -46,11 +46,11 @@ _roles = "<br/>"+
         • Destroy AA<br/>
             • Ensures survival of UNA member after extraction<br/>
         • Kill high ranking member of Tura/SFIA<br/>
-            • Disrupts structure of TURA/SFIA<br/>
+            • Disrupts structure of Tura/SFIA<br/>
 <br/>
     Support:<br/>
         • Supply drop<br/>
-            • If called in TURA will most likely respond<br/>
+            • If called in Tura will most likely respond<br/>
 <br/>"+
 "";
 
