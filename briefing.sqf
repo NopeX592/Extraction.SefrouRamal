@@ -17,77 +17,40 @@ format [" Authors: %1<br/><br/>",getText (missionconfigfile >> "author")]+
 "<br/>"+
 "FEATURES:<br/>"+
 "• Virtual Arsenal<br/>"+
-"• Artillery Support<br/>"+
-"• Mortar Support<br/>"+
-"• V-44X Blackfish Support<br/>"+
-"• Supply Drop<br/>"+
+"• Supply Drops<br/>"+
+"• Toxic Gas<br/>"+
 "<br/>"+
 "THANKS:<br/>"+
-"• Oskar for playtesting<br/>"+
-"• Oskar for bearing with my expressions of frustration<br/>"+
 "• Alex for helping me with programming<br/>"+
 "";
 
 _roles = "<br/>"+
-"General:<br/>
-    • Since your last deployment three days tensions rose further<br/>
-        • More CSAT activity<br/>
-    • Enemy Types to expect:<br/>
-        • Mostly infantry<br/>
-        • Some Technicals<br/>
-        • Less armour than last deployment<br/>
-            • Will most likely be found in cities<br/>
-        • Some ManPADs<br/>
-        • Mine fields are marked on map<br/>
-    • Front line markings only accurate for CSAT<br/>
-        • Past front line expect CSAT and IND<br/>
-        • Within should only be IND<br/>
-    • Virus Outbreak<br/>
-        • Orange Markings are infected areas<br/>
-        • Do not enter without consulting with me<br/>
-        • Do not enter without CBRN Suits<br/>
-    • Relocated to new FOB<br/>
-    • All intel you gather is sent back to me immediately<br/>
-    • Additional assets found at aircraft carrier or FOB Alpha<br/>
-    • Enemy is more reactive<br/>
-        • More QRFs<br/>
+"Briefing:<br/>
+    General:<br/>
+        • We're working as an independent Faction<br/>
+            • Few NATO and UNA operatives know of our presence<br/>
+            • NATO and UNA have been cooperating<br/>
+            • Tura/SFIA forces have attacked UNA personnel<br/>
+            • Expect attacks by Tura/SFIA<br/>
+            • You may RTB anytime to rearm<br/>
+        • Enemy types to expect:<br/>
+            • Infantry<br/>
+            • Technicals<br/>
+            • Few APCs<br/>
 <br/>
-Kill:<br/>
-    • Destroy Mortars<br/>
-        • High Priority<br/>
-    • Destroy Tank (Optional)<br/>
-        • It can be found roaming the swamp of Limni<br/>
-    • Sweep town of Chalkeia<br/>
-        • Tank spotted in vicinity<br/>
-    • Destroy stationed Helicopters nearby<br/>
-        • Expect MRAPs<br/>
-    • Destroy the nearby comms towers<br/>
-        • You'll need charges<br/>
-        • Light defenses<br/>
+    Extract UNA members:<br/>
+        • Gather Intel on location<br/>
+            • In Mhamid<br/>
 <br/>
-• Eastwind:<br/>
-    • We have analysed the intel you gathered<br/>
-    • Miller has defected from NATO<br/>
-    • Miller is now allied to IND<br/>
-    • He took the Eastwind device he captured a week ago<br/>
-    • You escorted the device in the convoy<br/>
-    • Expect more armor than usual<br/>
-    • Your tasks are<br/>
-        • Assasinate Miller<br/>
-            • Confirm the kill<br/>
-            • Search surrounding area for intel<br/>
-        • Recapture the Eastwind device<br/>
-            • We have 2 locations<br/>
-            • Marked on map<br/>
-            • The site closer to the front line is more likely as easier defendable<br/>
-            • Return Eastwind device to this FOB<br/>
+    Kill/Destroy:<br/>
+        • Destroy AA<br/>
+            • Ensures survival of UNA member after extraction<br/>
+        • Kill high ranking member of Tura/SFIA<br/>
+            • Disrupts structure of TURA/SFIA<br/>
 <br/>
-Support:<br/>
-    • Artillery Strikes possible<br/>
-        • Use only if no other way<br/>
-    • Mortar Support possible<br/>
-    • Supply drop<br/>
-        • If called in IND will most likely respond<br/>
+    Support:<br/>
+        • Supply drop<br/>
+            • If called in TURA will most likely respond<br/>
 <br/>"+
 "";
 

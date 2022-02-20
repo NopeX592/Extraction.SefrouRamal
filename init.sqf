@@ -1,6 +1,5 @@
 []execVM "main_script.sqf";
 []execVM "briefing.sqf";
-[]execVM "addaction.sqf";
 []execVM "toxicgas.sqf";
 
 if (hasInterface) then {
