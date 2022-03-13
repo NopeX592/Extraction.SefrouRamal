@@ -1,8 +1,6 @@
 _run = true;
 task_1_1_skip = false;
-task_1_1_fail = false;
-publicVariableServer "task_3_4_skip";
-publicVariableServer "task_3_4_fail";
+publicVariableServer "task_1_1_skip";
 intel_1_gathered = false;
 intel_2_gathered = false;
 publicVariableServer "intel_1_gathered";
@@ -24,8 +22,7 @@ while {_run} do {
 		task_1_1 setTaskState "Succeeded";
 		["TaskSucceeded",["","Gather Intel"]] call BIS_fnc_showNotification;
 		_marker_intel setMarkerSize [0, 0];
-		[]execVM "main\find_member_1_2_1.sqf";
-		[]execVM "main\find_member_1_2_2.sqf";
+		[]execVM "main\find_member_1_2.sqf";
 		_run = false;
 	};
 };
