@@ -15,7 +15,7 @@ while {_run} do {
 		["TaskSucceeded",["","Get Briefing"]] call BIS_fnc_showNotification;
 		
 		//Execute Missions
-		[] execVM "gather_intel_1_1.sqf";
+		[] execVM "main\gather_intel_1_1.sqf";
 		[] execVM "optional\destroy_aa.sqf";
 		[] execVM "optional\kill_tura.sqf";
 		_run = false;
