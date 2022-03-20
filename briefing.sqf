@@ -1,9 +1,5 @@
 _run_1 = true;
 _run_2 = true;
-drone_feed_on = false;
-drone_feed_off = false;
-publicVariable "drone_feed_on";
-publicVariable "drone_feed_off";
 
 private ["_mission", "_diary_text", "_roles"];
 _mission = toUpper (format ["%1",getText (missionconfigfile >> "onLoadName")]);

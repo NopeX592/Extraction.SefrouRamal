@@ -26,9 +26,3 @@ while {_run} do {
 		_run = false;
 	};
 };
-
-
-
-
-
-
