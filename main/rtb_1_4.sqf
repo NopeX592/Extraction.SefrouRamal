@@ -21,4 +21,5 @@ while {_run} do {
 		deleteMarker _UNA_delivery;
 		[UNA_member] join (group UNA_contact);
 		_run = false;
+	};
 };
