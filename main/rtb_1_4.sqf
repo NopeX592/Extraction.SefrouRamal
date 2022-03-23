@@ -6,11 +6,11 @@ publicVariableServer "task_1_4_fail";
 
 task_1_4 = player createSimpleTask ["Return to Base"];
 	task_1_4 setSimpleTaskDescription ["Return to Base.","Return to Base",""];
-	task_1_4 setSimpleTaskDestination (getMarkerPos "UNA_delivery");
+	task_1_4 setSimpleTaskDestination (getMarkerPos "rtb_marker");
 	task_1_4 setSimpleTaskType "run";
 	task_1_4 setTaskState "Created";
 	
-_UNA_delivery = createMarker ["Return to Base", getMarkerPos "UNA_delivery"];
+_UNA_delivery = createMarker ["Return to Base", getMarkerPos "rtb_marker"];
 	_UNA_delivery setMarkerShape "ELLIPSE";
 	_UNA_delivery setMarkerSize [100, 100];
 

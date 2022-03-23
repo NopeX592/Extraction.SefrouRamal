@@ -16,6 +16,7 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • Infantry
             • Technicals
             • Few APCs
+            • Prior use of IEDs
 
     Extract UNA members:
         • Gather Intel on location

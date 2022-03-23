@@ -1,7 +1,9 @@
 _run = true;
 task_1_2_skip = false;
+task_1_2_success = false;
 task_1_2_fail = false;
 publicVariableServer "task_1_2_skip";
+publicVariableServer "task_1_2_success";
 publicVariableServer "task_1_2_fail";
 
 task_1_2 = player createSimpleTask ["Rescue the UNA member"];
@@ -15,7 +17,7 @@ _marker_UNA_member = createMarker ["Rescue the UNA member", getMarkerPos "UNA_me
 	_marker_UNA_member setMarkerSize [100, 100];
 
 while {_run} do {
-	if ((!(UNA_member getVariable "ENH_isHostage") || (task_1_2_skip)) && !(task_1_2_fail)) then {
+	if ((task_1_2_success || task_1_2_skip) && !(task_1_2_fail)) then {
 		task_1_2 setTaskState "Succeeded";
 		["TaskSucceeded",["","Rescue the UNA member"]] call BIS_fnc_showNotification;
 		deleteMarker _marker_UNA_member;

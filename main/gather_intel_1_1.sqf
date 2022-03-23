@@ -15,7 +15,7 @@ task_1_1 = player createSimpleTask ["Gather Intel"];
 
 _marker_intel = createMarker ["Gather Intel", getMarkerPos "gather_intel"];
 	_marker_intel setMarkerShape "ELLIPSE";
-	_marker_intel setMarkerSize [25, 25];
+	_marker_intel setMarkerSize [50, 50];
 
 while {_run} do {
 	if (((intel_1_gathered == true) && (intel_2_gathered == true)) || (task_1_1_skip)) then {
