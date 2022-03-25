@@ -30,8 +30,7 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • Civilians in stronghold artillery strike is not possible
 
     Support:
-        • Supply drop
-            • If called in TURA will most likely respond
+        • We cannot provide support (too high profile)
 
 Intermissions:
     After Intel Gathered:
@@ -42,3 +41,8 @@ Intermissions:
     After UNA member saved:
         • Bring UNA member to Airport
         • RTB
+    When Additional Missions:
+        • Seize Helicopter at improvised airfield
+        • Civilians in vicinity
+        • Destroy Convoy transport truck
+        • Main Road going from North to South

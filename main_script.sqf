@@ -18,6 +18,8 @@ while {_run} do {
 		[] execVM "main\gather_intel_1_1.sqf";
 		[] execVM "optional\destroy_aa.sqf";
 		[] execVM "optional\kill_tura.sqf";
-		_run = false;
+	};
+	if (task_O_3_start) then {
+		[] execVM "optional\destroy_convoy.sqf";
 	};
 };
