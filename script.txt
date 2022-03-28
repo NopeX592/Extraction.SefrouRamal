@@ -17,6 +17,8 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • Technicals
             • Few APCs
             • Prior use of IEDs
+            • SFIA forces stole a helicopter it was last seen circling Bir-Dakhla
+            • Known checkpoints are marked on the map 
 
     Extract UNA members:
         • Gather Intel on location
@@ -30,19 +32,18 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • Civilians in stronghold artillery strike is not possible
 
     Support:
-        • We cannot provide support (too high profile)
+        • In very dire situations a Forward Arming Refueling Truck (FART) can be provided
 
 Intermissions:
     After Intel Gathered:
         • Intel analysed
-        • UNA member in either
-            • Bir-Dakhla
-            • Quadane
+        • UNA member in Bir-Dakhla
     After UNA member saved:
         • Bring UNA member to Airport
         • RTB
     When Additional Missions:
+        • Convoy is on the move so destroy it first
+            • Destroy Convoy transport truck
+            • Main Road going from North to South
         • Seize Helicopter at improvised airfield
         • Civilians in vicinity
-        • Destroy Convoy transport truck
-        • Main Road going from North to South

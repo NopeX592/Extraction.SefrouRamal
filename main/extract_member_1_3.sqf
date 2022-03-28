@@ -25,6 +25,7 @@ while {_run} do {
 		["TaskFailed",["","Extract the UNA member"]] call BIS_fnc_showNotification;
 		deleteMarker _UNA_delivery;
 		[]execVM "main\rtb_1_4.sqf";
+		task_1_3_fail = true;
 		_run = false;
 	};
 };
