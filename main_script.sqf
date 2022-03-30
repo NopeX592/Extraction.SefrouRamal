@@ -20,6 +20,7 @@ while {_run_1} do {
 		_run_1 = false;
 		//Execute Missions
 		[] execVM "main\gather_intel_1_1.sqf";
+		[] execVM "main\kill_arib_1_1_1.sqf";
 		[] execVM "optional\destroy_aa.sqf";
 		[] execVM "optional\kill_tura.sqf";
 	};
@@ -29,5 +30,6 @@ while {_run_2} do {
 		_run_2 = false;
 		[] execVM "optional\destroy_convoy.sqf";
 		[] execVM "optional\seize_helicopter.sqf";
+		convoy_grp setCurrentWaypoint [convoy_grp, 1];
 	};
 };

@@ -23,9 +23,11 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
     Extract UNA members:
         • Gather Intel on location
             • In Mhamid
+            • Arib Said has been sighted in Mhamid kill him if you see him
+            • Do not attack Mhamid from the West as there is no cover
 
     Kill/Destroy:
-        • Designate AA
+        • Destroy AA
             • Ensures survival of UNA member after extraction
         • Kill high ranking member of TURA/SFIA
             • Disrupts structure of TURA/SFIA
