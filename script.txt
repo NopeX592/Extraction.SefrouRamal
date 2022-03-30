@@ -18,7 +18,8 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • Few APCs
             • Prior use of IEDs
             • SFIA forces stole a helicopter it was last seen circling Bir-Dakhla
-            • Known checkpoints are marked on the map 
+            • Known checkpoints are marked on the map
+            • Check your fire civilians are still in the area
 
     Extract UNA members:
         • Gather Intel on location
