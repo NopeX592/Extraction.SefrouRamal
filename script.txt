@@ -20,6 +20,7 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • SFIA forces stole a helicopter it was last seen circling Bir-Dakhla
             • Known checkpoints are marked on the map
             • Check your fire civilians are still in the area
+        • Civilians are still in cities check your fire
 
     Extract UNA members:
         • Gather Intel on location
@@ -32,7 +33,7 @@ Gather Intel 🡺 Find UNA members 🡺 Extract UNA members 🡺 RTB
             • Ensures survival of UNA member after extraction
         • Kill high ranking member of TURA/SFIA
             • Disrupts structure of TURA/SFIA
-            • Civilians in stronghold artillery strike is not possible
+            • Civilians seen in stronghold artillery strike is not possible
 
     Support:
         • In very dire situations a Forward Arming Refueling Truck (FART) can be provided
@@ -49,4 +50,3 @@ Intermissions:
             • Destroy Convoy transport truck
             • Main Road going from North to South
         • Seize Helicopter at improvised airfield
-        • Civilians in vicinity
